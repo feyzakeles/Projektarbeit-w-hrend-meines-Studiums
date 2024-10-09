@@ -12,4 +12,4 @@ Funktionen:
 - **Baumpflanzaktionen:** Nutzer werden ermutigt, an Baumpflanzaktionen teilzunehmen, um ihre Emissionen zu kompensieren.
 - **Benutzerfreundlichkeit:** Das System ist barrierefrei und leicht verständlich.
 
-Die dazugehörigen Folien zu diesem Projekt können Sie in diesem Ordner finden: . Es gibt drei PDF-Folien, auf denen Sie den gesamten Entwicklungsprozess von der Produktidee bis hin zum Prototyping nachvollziehen können, einschließlich des Proof of Concept und der Formulierung der funktionalen Anforderungen.
+Die dazugehörigen Folien zu diesem Projekt können Sie in diesem Ordner finden: [Projekt 1](https://github.com/feyzakeles/Projektarbeit-w-hrend-meines-Studiums/tree/a5ec4ebfe36819a759463643c47720b4e7986869/Projekt%201). Es gibt drei PDF-Folien, auf denen Sie den gesamten Entwicklungsprozess von der Produktidee bis hin zum Prototyping nachvollziehen können, einschließlich des Proof of Concept und der Formulierung der funktionalen Anforderungen.
