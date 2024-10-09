@@ -11,3 +11,5 @@ Funktionen:
 - **Rangliste der CO2-Einsparungen:** Anzeige der eingesparten CO2-Werte für Fahrrad- und Fußwege.
 - **Baumpflanzaktionen:** Nutzer werden ermutigt, an Baumpflanzaktionen teilzunehmen, um ihre Emissionen zu kompensieren.
 - **Benutzerfreundlichkeit:** Das System ist barrierefrei und leicht verständlich.
+
+Die dazugehörigen Folien zu diesem Projekt können Sie in diesem Ordner finden: . Es gibt drei PDF-Folien, auf denen Sie den gesamten Entwicklungsprozess von der Produktidee bis hin zum Prototyping nachvollziehen können, einschließlich des Proof of Concept und der Formulierung der funktionalen Anforderungen.
