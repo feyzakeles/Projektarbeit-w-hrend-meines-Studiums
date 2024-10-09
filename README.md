@@ -6,9 +6,8 @@ In diesem Projekt geht es um die Problematik des CO2-Ausstoßes durch den Autove
 
 Funktionen:
 
-Routenberechnung und CO2-Ausstoß: 
-- Nutzer geben Start- und Zielort sowie den Kraftstoffverbrauch an. Das System berechnet die Strecke und den CO2-Ausstoß.
-- Alternative Transportmöglichkeiten: Empfehlungen für umweltfreundliche Optionen wie Zug oder Fahrrad.
-- Rangliste der CO2-Einsparungen: Anzeige der eingesparten CO2-Werte für Fahrrad- und Fußwege.
-- Baumpflanzaktionen: Nutzer werden ermutigt, an Baumpflanzaktionen teilzunehmen, um ihre Emissionen zu kompensieren.
-- Benutzerfreundlichkeit: Das System ist barrierefrei und leicht verständlich.
+- **Routenberechnung und CO2-Ausstoß:** Nutzer geben Start- und Zielort sowie den Kraftstoffverbrauch an. Das System berechnet die Strecke und den CO2-Ausstoß.
+- **Alternative Transportmöglichkeiten:** Empfehlungen für umweltfreundliche Optionen wie Zug oder Fahrrad.
+- **Rangliste der CO2-Einsparungen:** Anzeige der eingesparten CO2-Werte für Fahrrad- und Fußwege.
+- **Baumpflanzaktionen:** Nutzer werden ermutigt, an Baumpflanzaktionen teilzunehmen, um ihre Emissionen zu kompensieren.
+- **Benutzerfreundlichkeit:** Das System ist barrierefrei und leicht verständlich.
