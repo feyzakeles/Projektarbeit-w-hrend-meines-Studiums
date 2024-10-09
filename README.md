@@ -26,5 +26,3 @@ Funktionen:
 - **Fachliche Unterstützung:** Experten geben Tipps und besuchen die Blühstreifen, um deren Gesundheit zu unterstützen.
 
 Die Dokumentation zu diesem Projekt finden Sie in diesem Ordner: [Projekt 2](https://github.com/feyzakeles/Projektarbeit-w-hrend-meines-Studiums/tree/110e225440e1064d4d37a650d7c85688f22a5998/Projekt%202). Darin enthalten sind detaillierte Informationen über die Konzeptualisierung, die Erstellung der funktionalen Anforderungen sowie den Proof of Concept.
-
-Das Ziel dieser App ist es, Naturinteressierten eine benutzerfreundliche Plattform zur Verfügung zu stellen, um Blühstreifen erfolgreich anzulegen und positive Beiträge zum Naturschutz zu leisten. Auch hier habe ich Erfahrungen im Bereich Proof of Concept gesammelt und bin mit der Erstellung funktionaler Anforderungen vertraut.
