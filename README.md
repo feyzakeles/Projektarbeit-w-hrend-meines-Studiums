@@ -1,4 +1,4 @@
-# Projektarbeit während meines Studiums
+# Projektarbeite während meines Studiums
 Hier finden Sie eine Übersicht über die Projekte, an denen ich im Laufe meines Studiums und meiner beruflichen Laufbahn gearbeitet habe. Diese Projekte verdeutlichen mein Verständnis und meine Anwendung moderner Technologien und Konzepte, wie agile Methoden, Softwarearchitekturen und Design Patterns, und zeigen, wie ich theoretisches Wissen in praktische Lösungen umsetze.
 
 # 1. Projekt: CO2-Tracking und Reduktion im Autoverkehr
