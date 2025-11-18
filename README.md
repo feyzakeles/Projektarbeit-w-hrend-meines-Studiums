@@ -26,3 +26,13 @@ Funktionen:
 - **Fachliche Unterstützung:** Experten geben Tipps und besuchen die Blühstreifen, um deren Gesundheit zu unterstützen.
 
 Die Dokumentation zu diesem Projekt finden Sie in diesem Ordner: [Projekt 2](https://github.com/feyzakeles/Projektarbeit-w-hrend-meines-Studiums/tree/110e225440e1064d4d37a650d7c85688f22a5998/Projekt%202). Darin enthalten sind detaillierte Informationen über die Konzeptualisierung, die Erstellung der funktionalen Anforderungen sowie den Proof of Concept.
+
+# 3. Projekt: PlantGuard
+PlantGuard ist ein konzeptionelles UX-Projekt, entwickelt im Masterstudiengang Medieninformatik. Ziel: Pflanzenpflege vereinfachen — durch Diagnose, Expertenwissen & Community-Austausch.
+
+PlantGuard ist eine digitale Plattform, die Pflanzenfreunden hilft, ihre Pflanzen richtig zu pflegen — mit Diagnosefunktion, Pflegehinweisen und einem Zugang zu Expert:innen.
+
+Das Projekt basiert auf einer umfassenden Analyse von Nutzerbedürfnissen, Stakeholdern, funktionalen Anforderungen und Interaktionsmodellen. Dabei entstand ein ganzheitliches Konzept mit Storyboards, User-Flows und Prototyp.
+
+Die Dokumentation zu diesem Projekt finden Sie in diesem Ordner: [Projekt 3](https://github.com/feyzakeles/Projektarbeit-w-hrend-meines-Studiums/tree/110e225440e1064d4d37a650d7c85688f22a5998/Projekt%202). Darin enthalten sind detaillierte Informationen über die Konzeptualisierung, die Erstellung der funktionalen Anforderungen sowie den Proof of Concept.
+
