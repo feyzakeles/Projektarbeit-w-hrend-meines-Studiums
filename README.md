@@ -34,5 +34,5 @@ PlantGuard ist eine digitale Plattform, die Pflanzenfreunden hilft, ihre Pflanze
 
 Das Projekt basiert auf einer umfassenden Analyse von Nutzerbedürfnissen, Stakeholdern, funktionalen Anforderungen und Interaktionsmodellen. Dabei entstand ein ganzheitliches Konzept mit Storyboards, User-Flows und Prototyp.
 
-Die Dokumentation zu diesem Projekt finden Sie in diesem Ordner: [Projekt 3](https://github.com/feyzakeles/Projektarbeit-w-hrend-meines-Studiums/tree/110e225440e1064d4d37a650d7c85688f22a5998/Projekt%203). Darin enthalten sind detaillierte Informationen über die Konzeptualisierung, die Erstellung der funktionalen Anforderungen sowie den Proof of Concept.
+Die Dokumentation zu diesem Projekt finden Sie in diesem Ordner: [Projekt 3](https://github.com/feyzakeles/Projektarbeit-w-hrend-meines-Studiums/tree/f9d6b4c5bee763dd9d93ecf37ed69c385d5d0c0a/Projekt%203). Darin enthalten sind detaillierte Informationen über die Konzeptualisierung, die Erstellung der funktionalen Anforderungen sowie den Proof of Concept.
 
